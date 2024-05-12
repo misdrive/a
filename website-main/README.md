@@ -1,1 +1,1 @@
-# zurly.me | zurly.tech
+# eifz.cc
